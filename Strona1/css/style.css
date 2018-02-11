@@ -97,3 +97,6 @@ ul {
 .learning:hover {
     background-color: #808080;
 }
+@media(max-width:640px) {
+    p{color:red;}
+    .container {background-color: aqua;}
